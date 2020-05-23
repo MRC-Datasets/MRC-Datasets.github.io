@@ -6,9 +6,7 @@ permalink: /Tasks/
 <h1 class="page-title">{{ page.title | escape }}</h1>
  
  <div class="section"   align="center" >
-     <div class="row"  >
-	    <div class="col s12"> 
-          <table align="center"  class="striped">
+       <table align="center"  class="striped">
                <thead>
                  <tr bgcolor="#29b6f6">  
         <th>Year</th>
@@ -528,5 +526,4 @@ permalink: /Tasks/
 	</tbody>
             </table>
           </div>
-    </div>
-</div>
+
