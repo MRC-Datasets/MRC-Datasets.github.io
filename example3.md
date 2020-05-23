@@ -6,21 +6,19 @@ permalink: /Datasets/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-
-
 <div class="section">
     <div class="row">
           <div class="col s12">
             <table class="striped">
               <thead>
                 <tr bgcolor="#29b6f6">
-        <th>Year</th>
-        <th>Datasets</th>
-        <th>Type of Context</th>
-        <th>Dataset sourcing</th>
-        <th>Genre or Source</th>
-        <th>Characteristic</th>
-        <th>Datasets download</th>
+        <th><font color="white">Year</font></th>
+        <th><font color="white">Datasets</font></th>
+        <th><font color="white">Type of Context</font></th>
+        <th><font color="white">Dataset sourcing</font></th>
+        <th><font color="white">Genre or Source</font></th>
+        <th><font color="white">Characteristic</font></th>
+        <th><font color="white">Datasets download</font></th>
                 </tr>
               </thead>
               <tbody>
