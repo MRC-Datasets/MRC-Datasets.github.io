@@ -6,11 +6,11 @@ permalink: /Tasks/
 <h1 class="page-title">{{ page.title | escape }}</h1>
  
  <div class="section"   align="center" >
-     <h5>Highlight Table</h5> 
      <div class="row"  >
+	    <div class="col s12"> 
           <table align="center"  class="striped">
                <thead>
-                 <tr>  
+                 <tr bgcolor="#29b6f6">  
         <th>Year</th>
         <th>Datasets</th>
         <th>Corpus Type</th>
@@ -528,4 +528,5 @@ permalink: /Tasks/
 	</tbody>
             </table>
           </div>
+    </div>
     </div>
