@@ -3,12 +3,12 @@ layout: page
 title: Tasks
 permalink: /Tasks/
 ---
-
+<h1 class="page-title">{{ page.title | escape }}</h1>
  
- <div class="section" align="center" >
+ <div class="section"   align="center" >
      <h5>Highlight Table</h5> 
-     <div class="row">
-              <table align="center"  class="striped">
+     <div class="row"  >
+          <table align="center"  class="striped">
                <thead>
                  <tr>  
         <th>Year</th>
@@ -24,6 +24,15 @@ permalink: /Tasks/
 	<tr>
         <td>2013</td>
         <td>MCTest  mc500</td>
+        <td>Textual</td>
+        <td>Natural</td>
+        <td>Free-Form</td>
+        <td>Multichoice</td>
+        <td><button onclick="window.open('https://mattr1.github.io/mctest/MCTest_EMNLP2013.pdf');">Paper</button></td>
+    </tr>
+    <tr>
+        <td>2013</td>
+        <td>MCTest  mc160</td>
         <td>Textual</td>
         <td>Natural</td>
         <td>Free-Form</td>
