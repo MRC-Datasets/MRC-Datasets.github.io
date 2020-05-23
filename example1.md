@@ -6,17 +6,17 @@ permalink: /Tasks/
 <h1 class="page-title">{{ "Tasks" | escape }}</h1> 
  <div class="section"   align="center" >
      <div class="row"  >
-	  <div class="col s12">
+	  <div class="col  s12">
           <table align="center"  class="striped">
                <thead>
-               <tr>  
-                   <th>Year</th>
-                  <th>Datasets</th>
-                  <th>Corpus Type</th>
-                  <th>Question Type</th>
-                  <th>Answer Source</th>
-                  <th>Answer Type</th>
-                  <th>Paper Links</th>
+               <tr bgcolor="#29b6f6">  
+                  <th><font color="white">Year</font></th>
+                  <th><font color="white">Datasets</font></th>
+                  <th><font color="white">Corpus Type</font></th>
+                  <th><font color="white">Question Type</font></th>
+                  <th><font color="white">Answer Source</font></th>
+                  <th><font color="white">Answer Type</font></th>
+                  <th><font color="white">Paper Links</font></th>
                 </tr>
    </thead>
    <tbody>	
