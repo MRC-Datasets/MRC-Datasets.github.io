@@ -31,15 +31,6 @@ permalink: /Tasks/
         <td><button onclick="window.open('https://mattr1.github.io/mctest/MCTest_EMNLP2013.pdf');">Paper</button></td>
     </tr>
     <tr>
-        <td>2013</td>
-        <td>MCTest  mc160</td>
-        <td>Textual</td>
-        <td>Natural</td>
-        <td>Free-Form</td>
-        <td>Multichoice</td>
-        <td><button onclick="window.open('https://mattr1.github.io/mctest/MCTest_EMNLP2013.pdf');">Paper</button></td>
-    </tr>
-    <tr>
         <td>2015</td>
         <td>Daily Mail</td>
         <td>Textual</td>
