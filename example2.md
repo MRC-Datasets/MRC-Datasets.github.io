@@ -6,24 +6,23 @@ permalink: /Metrics/
  
 
 
-<h1 class="page-title">{{ "Metrics, Leaderboards and Baseline" | escape }}</h1>
- 
+<h1 class="page-title">{{ "Metrics, Leaderboards and Baseline" | escape }}</h1> 
  <div class="section"   align="center" >
      <div class="row"  >
-	  <div class="col">
+	  <div class="col s12">
           <table align="center"  class="striped">
                <thead>
-     <tr bgcolor="#29b6f6">  
-        <th class="white-text">Year</th>
-        <th class="white-text">Datasets</th>
-        <th class="white-text">Metric 1</th>
-        <th class="white-text">Metric 2</th>
-        <th class="white-text">Metric 3</th>
-        <th class="white-text">Metric 4</th>
-        <th class="white-text">Leaderboard</th>
-        <th class="white-text">Baseline</th>
-    </tr>
-     </thead>
+                  <tr bgcolor="#29b6f6">  
+                      <th><font color="white">Year</font></th>
+                      <th><font color="white">Datasets</font></th>
+                      <th><font color="white">Metric 1</font></th>
+                      <th><font color="white">Metric 2</font></th>
+                      <th><font color="white">Metric 3</font></th>
+                      <th><font color="white">Metric 4</font></th>
+                      <th><font color="white">Leaderboard</font></th>
+                      <th><font color="white">Baseline</font></th>
+                  </tr>
+                </thead>
   <tbody>	
 	<tr>
         <td>2013</td>
@@ -599,4 +598,4 @@ permalink: /Metrics/
             </table>
           </div>
     </div>
-	    </div>
+</div>
