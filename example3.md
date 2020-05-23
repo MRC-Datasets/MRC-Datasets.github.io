@@ -4,10 +4,6 @@ title: Datasets
 permalink: /Datasets/
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
-
-
-
 <div class="section">
     <h5>Highlight Table</h5> 
     <div class="row">
