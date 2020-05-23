@@ -17,7 +17,7 @@ permalink: /Tasks/
         <th>Question Type</th>
         <th>Answer Source</th>
         <th>Answer Type</th>
-        <th>Paper download</th>
+        <th>Paper Links</th>
     </tr>
    </thead>
    <tbody>	
@@ -28,7 +28,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://mattr1.github.io/mctest/MCTest_EMNLP2013.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://mattr1.github.io/mctest/MCTest_EMNLP2013.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2013</td>
@@ -37,7 +37,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://mattr1.github.io/mctest/MCTest_EMNLP2013.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://mattr1.github.io/mctest/MCTest_EMNLP2013.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2015</td>
@@ -46,7 +46,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Entity</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/abs/1506.03340');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/abs/1506.03340');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2015</td>
@@ -55,7 +55,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Entity</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/abs/1506.03340');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/abs/1506.03340');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2015</td>
@@ -64,7 +64,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://aclweb.org/anthology/D15-1237/');">Paper</button></td>
+        <td><button onclick="window.open('https://aclweb.org/anthology/D15-1237/');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2016</td>
@@ -73,7 +73,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://aclweb.org/anthology/D16-1147');">Paper</button></td>
+        <td><button onclick="window.open('https://aclweb.org/anthology/D16-1147');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2016</td>
@@ -82,7 +82,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Spans</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/abs/1606.05250');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/abs/1606.05250');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2016</td>
@@ -91,7 +91,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://aclweb.org/anthology/D16-1241');">Paper</button></td>
+        <td><button onclick="window.open('https://aclweb.org/anthology/D16-1241');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2016</td>
@@ -100,7 +100,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1611.09268.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1611.09268.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2016</td>
@@ -109,7 +109,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Spans</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1611.09830.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1611.09830.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2016</td>
@@ -118,7 +118,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1606.06031.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1606.06031.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2016</td>
@@ -127,7 +127,7 @@ permalink: /Tasks/
         <td>Synthesis</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1608.03542.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1608.03542.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2016</td>
@@ -136,7 +136,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://research.fb.com/publications/the-goldilocks-principle-reading-childrens-books-with-explicit-memory-representations/');">Paper</button></td>
+        <td><button onclick="window.open('https://research.fb.com/publications/the-goldilocks-principle-reading-childrens-books-with-explicit-memory-representations/');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2016</td>
@@ -145,7 +145,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1610.00956');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1610.00956');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2016</td>
@@ -154,7 +154,7 @@ permalink: /Tasks/
         <td>Synthesis</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1612.04342v1.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1612.04342v1.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2016</td>
@@ -163,7 +163,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('http://movieqa.cs.toronto.edu/static/files/CVPR2016_MovieQA.pdf');">Paper</button></td>
+        <td><button onclick="window.open('http://movieqa.cs.toronto.edu/static/files/CVPR2016_MovieQA.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -172,7 +172,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1705.03551.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1705.03551.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -181,7 +181,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1705.03551.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1705.03551.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -190,7 +190,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1704.04683.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1704.04683.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -199,7 +199,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Entity</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1707.03904');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1707.03904');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -208,7 +208,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Spans</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1707.03904');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1707.03904');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -217,7 +217,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1704.05179');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1704.05179');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -226,7 +226,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1712.07040.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1712.07040.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -235,7 +235,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Spans</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1707.06209.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1707.06209.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -244,7 +244,7 @@ permalink: /Tasks/
         <td>Synthesis</td>
         <td>Entity</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00021');">Paper</button></td>
+        <td><button onclick="window.open('https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00021');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -253,7 +253,7 @@ permalink: /Tasks/
         <td>Synthesis</td>
         <td>Entity</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00021');">Paper</button></td>
+        <td><button onclick="window.open('https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00021');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -262,7 +262,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('http://openaccess.thecvf.com/content_cvpr_2017/papers/Kembhavi_Are_You_Smarter_CVPR_2017_paper.pdf');">Paper</button></td>
+        <td><button onclick="window.open('http://openaccess.thecvf.com/content_cvpr_2017/papers/Kembhavi_Are_You_Smarter_CVPR_2017_paper.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2017</td>
@@ -271,7 +271,7 @@ permalink: /Tasks/
         <td>Cloze,Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/abs/1611.05118');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/abs/1611.05118');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -280,7 +280,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/abs/1808.07036v2');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/abs/1808.07036v2');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -289,7 +289,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1808.07042.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1808.07042.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -298,7 +298,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Spans</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1806.03822.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1806.03822.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -307,7 +307,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Spans</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1809.09600.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1809.09600.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -316,7 +316,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Spans</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1809.09600.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1809.09600.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -325,7 +325,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1804.07927.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1804.07927.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -334,7 +334,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1804.07927.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1804.07927.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -343,7 +343,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/abs/1711.03225');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/abs/1711.03225');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -352,7 +352,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1810.12885.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1810.12885.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -361,7 +361,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/abs/1803.09720');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/abs/1803.09720');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -370,7 +370,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Entity</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1810.12196.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1810.12196.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -379,7 +379,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf');">Paper</button></td>
+        <td><button onclick="window.open('http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -388,7 +388,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf');">Paper</button></td>
+        <td><button onclick="window.open('http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -397,7 +397,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1809.02789.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1809.02789.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -406,7 +406,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17368/16067');">Paper</button></td>
+        <td><button onclick="window.open('https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17368/16067');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -415,7 +415,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('http://cogcomp.org/page/publication_view/833');">Paper</button></td>
+        <td><button onclick="window.open('http://cogcomp.org/page/publication_view/833');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -424,7 +424,7 @@ permalink: /Tasks/
         <td>Cloze,Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1809.00812.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1809.00812.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -433,7 +433,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber:8606080');">Paper</button></td>
+        <td><button onclick="window.open('https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber:8606080');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -442,7 +442,7 @@ permalink: /Tasks/
         <td>Cloze</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber:8606080');">Paper</button></td>
+        <td><button onclick="window.open('https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber:8606080');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -451,7 +451,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Spans</td>
         <td>Natural</td>
-        <td><button onclick="window.open('http://www.cs.sjtu.edu.cn/~wang-xb/wireless_new/material/Final2018/EE/洪逸宁,章学恒,吴峥-report.pdf');">Paper</button></td>
+        <td><button onclick="window.open('http://www.cs.sjtu.edu.cn/~wang-xb/wireless_new/material/Final2018/EE/洪逸宁,章学恒,吴峥-report.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -460,7 +460,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1803.05223');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1803.05223');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
@@ -469,7 +469,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Spans</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1805.06975.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1805.06975.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2019</td>
@@ -478,7 +478,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Spans</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://ai.google/research/pubs/pub47761');">Paper</button></td>
+        <td><button onclick="window.open('https://ai.google/research/pubs/pub47761');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2019</td>
@@ -487,7 +487,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Spans</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://ai.google/research/pubs/pub47761');">Paper</button></td>
+        <td><button onclick="window.open('https://ai.google/research/pubs/pub47761');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2019</td>
@@ -496,7 +496,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1902.00164.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1902.00164.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2019</td>
@@ -505,7 +505,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/abs/1809.01494');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/abs/1809.01494');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2019</td>
@@ -514,7 +514,7 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
-        <td><button onclick="window.open('https://arxiv.org/pdf/1811.00937.pdf');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1811.00937.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2019</td>
@@ -523,10 +523,10 @@ permalink: /Tasks/
         <td>Natural</td>
         <td>Free-Form</td>
         <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/abs/1903.00161');">Paper</button></td>
+        <td><button onclick="window.open('https://arxiv.org/abs/1903.00161');">Paper Links</button></td>
     </tr>
 	</tbody>
             </table>
           </div>
     </div>
-    </div>
+</div>
