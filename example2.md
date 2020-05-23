@@ -14,14 +14,14 @@ permalink: /Metrics/
           <table align="center"  class="striped">
                <thead>
      <tr bgcolor="#29b6f6">  
-        <th>Year</th>
-        <th>Datasets</th>
-        <th>Metric 1</th>
-        <th>Metric 2</th>
-        <th>Metric 3</th>
-        <th>Metric 4</th>
-        <th>Leaderboard</th>
-        <th>Baseline</th>
+        <th class="white-text">Year</th>
+        <th class="white-text">Datasets</th>
+        <th class="white-text">Metric 1</th>
+        <th class="white-text">Metric 2</th>
+        <th class="white-text">Metric 3</th>
+        <th class="white-text">Metric 4</th>
+        <th class="white-text">Leaderboard</th>
+        <th class="white-text">Baseline</th>
     </tr>
      </thead>
   <tbody>	
