@@ -3,7 +3,7 @@ layout: page
 title: Tasks
 permalink: /Tasks/
 ---
-<h1 class="page-title">{{ page.title | escape }}</h1>
+
  
  <div class="section" align="center" >
      <h5>Highlight Table</h5> 
