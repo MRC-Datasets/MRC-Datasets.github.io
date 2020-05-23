@@ -3,43 +3,17 @@ layout: page
 title: Metrics
 permalink: /Metrics/
 ---
+ 
 
-<style>
-	
-    .table2 table {
-        width:100%;
-        margin:15px 0;
-        border:0;
-    }
-    .table2 th {
-        background-color:#00A5FF;
-        color:#FFFFFF
-    }
-    .table2,.table2 th,.table2 td {
-        font-size:0.95em;
-        text-align:center;
-        padding:4px;
-        border-collapse:collapse;
-    }
-    .table2 th,.table2 td {
-        border: 1px solid #2087fe;
-        border-width:1px 0 1px 0;
-        border:2px inset #ffffff;
-    }
-    .table2 tr {
-        border: 1px solid #ffffff;
-    }
-    .table2 tr:nth-child(odd){
-        background-color:#aae1fe;
-    }
-    .table2 tr:nth-child(even){
-        background-color:#ffffff;
-    }
-</style>
 
-<h1 class="color1">{{ "Metrics, Leaderboards and Baseline" | escape }}</h1>
-<table class=table2>
-    <tr>
+<h1 class="page-title">{{ page.title | escape }}</h1>
+ 
+ <div class="section"   align="center" >
+     <h5>Metrics, Leaderboards and Baseline</h5> 
+     <div class="row"  >
+          <table align="center"  class="striped">
+               <thead>
+                 <tr>  
         <th>Year</th>
         <th>Datasets</th>
         <th>Metric 1</th>
@@ -49,7 +23,9 @@ permalink: /Metrics/
         <th>Leaderboard</th>
         <th>Baseline</th>
     </tr>
-    <tr>
+     </thead>
+  <tbody>	
+	<tr>
         <td>2013</td>
         <td>MCTest  mc500</td>
         <td>Accuracy</td>
@@ -618,11 +594,8 @@ permalink: /Metrics/
         <td>N/A</td>
         <td><button onclick="window.open('https://leaderboard.allenai.org/drop/submissions/public');">Leaderboard</button></td>
         <td><button onclick="window.open('https://allennlp.org/drop');">Baseline</button></td>
-    </tr>
-										 
-										 
-										 
-												 
-												 
-</table>
-<br />
+    </tr>								 
+	</tbody>
+            </table>
+          </div>
+    </div>
