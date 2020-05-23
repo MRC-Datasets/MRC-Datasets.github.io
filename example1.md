@@ -3,20 +3,21 @@ layout: page
 title: Tasks
 permalink: /Tasks/
 ---
-<h1 class="page-title">{{ page.title | escape }}</h1>
- 
+<h1 class="page-title">{{ "Tasks" | escape }}</h1> 
  <div class="section"   align="center" >
-       <table align="center"  class="striped">
+     <div class="row"  >
+	  <div class="col s12">
+          <table align="center"  class="striped">
                <thead>
-                 <tr bgcolor="#29b6f6">  
-        <th>Year</th>
-        <th>Datasets</th>
-        <th>Corpus Type</th>
-        <th>Question Type</th>
-        <th>Answer Source</th>
-        <th>Answer Type</th>
-        <th>Paper Links</th>
-    </tr>
+               <tr>  
+                   <th>Year</th>
+                  <th>Datasets</th>
+                  <th>Corpus Type</th>
+                  <th>Question Type</th>
+                  <th>Answer Source</th>
+                  <th>Answer Type</th>
+                  <th>Paper Links</th>
+                </tr>
    </thead>
    <tbody>	
 	<tr>
@@ -524,6 +525,7 @@ permalink: /Tasks/
         <td><button onclick="window.open('https://arxiv.org/abs/1903.00161');">Paper Links</button></td>
     </tr>
 	</tbody>
-            </table>
-          </div>
-
+    </table>
+    </div>
+ </div>
+</div>
