@@ -10,7 +10,7 @@ permalink: /Metrics/
  
  <div class="section"   align="center" >
      <div class="row"  >
-	  <div class="col s12">
+	  <div class="col">
           <table align="center"  class="striped">
                <thead>
      <tr bgcolor="#29b6f6">  
