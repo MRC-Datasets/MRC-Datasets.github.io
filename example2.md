@@ -6,14 +6,14 @@ permalink: /Metrics/
  
 
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
+<h1 class="page-title">{{ "Metrics, Leaderboards and Baseline" | escape }}</h1>
  
  <div class="section"   align="center" >
-     <h5>Metrics, Leaderboards and Baseline</h5> 
      <div class="row"  >
+	  <div class="col s12">
           <table align="center"  class="striped">
                <thead>
-                 <tr>  
+     <tr bgcolor="#29b6f6">  
         <th>Year</th>
         <th>Datasets</th>
         <th>Metric 1</th>
@@ -599,3 +599,4 @@ permalink: /Metrics/
             </table>
           </div>
     </div>
+	    </div>
