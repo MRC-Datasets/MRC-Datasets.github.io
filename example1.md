@@ -5,11 +5,10 @@ permalink: /Tasks/
 ---
 <h1 class="page-title">{{ page.title | escape }}</h1>
  
- <div class="section">
+ <div class="section" align="center" >
      <h5>Highlight Table</h5> 
      <div class="row">
-           <div class="col s10">
-             <table class="striped">
+              <table align="center"  class="striped">
                <thead>
                  <tr>  
         <th>Year</th>
@@ -530,4 +529,3 @@ permalink: /Tasks/
             </table>
           </div>
     </div>
-</div>
