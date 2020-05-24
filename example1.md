@@ -1,37 +1,28 @@
 ---
 layout: page
 title: Tasks
-permalink: /Tasks/
+permalink: /tasks/
 ---
-<h1 class="page-title">{{ "Tasks" | escape }}</h1> 
+<h1 class="page-title">{{ "Types of Tasks and Paper Links" | escape }}</h1> 
  <div class="section"   align="center" >
      <div class="row"  >
 	  <div class="col  s12">
           <table align="center"  class="striped">
                <thead>
                <tr bgcolor="#29b6f6">  
-                  <th><font color="white">Year</font></th>
-                  <th><font color="white">Datasets</font></th>
-                  <th><font color="white">Corpus Type</font></th>
-                  <th><font color="white">Question Type</font></th>
-                  <th><font color="white">Answer Source</font></th>
-                  <th><font color="white">Answer Type</font></th>
-                  <th><font color="white">Paper Links</font></th>
+                  <th width="10%"><font color="white">Year</font></th>
+                  <th width="15%"><font color="white">Datasets</font></th>
+                  <th width="15%"><font color="white">Corpus Type</font></th>
+                  <th width="15%"><font color="white">Question Type</font></th>
+                  <th width="15%"><font color="white">Answer Source</font></th>
+                  <th width="15%"><font color="white">Answer Type</font></th>
+                  <th width="15%"><font color="white">Paper Links</font></th>
                 </tr>
    </thead>
    <tbody>	
 	<tr>
         <td>2013</td>
-        <td>MCTest  mc500</td>
-        <td>Textual</td>
-        <td>Natural</td>
-        <td>Free-Form</td>
-        <td>Multichoice</td>
-        <td><button onclick="window.open('https://mattr1.github.io/mctest/MCTest_EMNLP2013.pdf');">Paper Links</button></td>
-    </tr>
-    <tr>
-        <td>2013</td>
-        <td>MCTest  mc160</td>
+        <td>MCTest</td>
         <td>Textual</td>
         <td>Natural</td>
         <td>Free-Form</td>
@@ -40,19 +31,10 @@ permalink: /Tasks/
     </tr>
     <tr>
         <td>2015</td>
-        <td>Daily Mail</td>
+        <td>CNN/Daily Mail</td>
         <td>Textual</td>
         <td>Cloze</td>
-        <td>Entity</td>
-        <td>Natural</td>
-        <td><button onclick="window.open('https://arxiv.org/abs/1506.03340');">Paper Links</button></td>
-    </tr>
-    <tr>
-        <td>2015</td>
-        <td>CNN</td>
-        <td>Textual</td>
-        <td>Cloze</td>
-        <td>Entity</td>
+        <td>Spans</td>
         <td>Natural</td>
         <td><button onclick="window.open('https://arxiv.org/abs/1506.03340');">Paper Links</button></td>
     </tr>
@@ -175,7 +157,7 @@ permalink: /Tasks/
     </tr>
     <tr>
         <td>2017</td>
-        <td>TriviaQA (Wiki)</td>
+        <td>TriviaQA(Wiki)</td>
         <td>Textual</td>
         <td>Natural</td>
         <td>Free-Form</td>
@@ -196,7 +178,7 @@ permalink: /Tasks/
         <td>Quasar-S</td>
         <td>Textual</td>
         <td>Cloze</td>
-        <td>Entity</td>
+        <td>Spans</td>
         <td>Multichoice</td>
         <td><button onclick="window.open('https://arxiv.org/pdf/1707.03904');">Paper Links</button></td>
     </tr>
@@ -241,7 +223,7 @@ permalink: /Tasks/
         <td>Qangaroo-MEDHOP</td>
         <td>Textual</td>
         <td>Synthesis</td>
-        <td>Entity</td>
+        <td>Spans</td>
         <td>Multichoice</td>
         <td><button onclick="window.open('https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00021');">Paper Links</button></td>
     </tr>
@@ -250,7 +232,7 @@ permalink: /Tasks/
         <td>Qangaroo-WIKIHOP</td>
         <td>Textual</td>
         <td>Synthesis</td>
-        <td>Entity</td>
+        <td>Spans</td>
         <td>Multichoice</td>
         <td><button onclick="window.open('https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00021');">Paper Links</button></td>
     </tr>
@@ -265,13 +247,22 @@ permalink: /Tasks/
     </tr>
     <tr>
         <td>2017</td>
-        <td>COMICS</td>
+        <td>COMICS(Cloze)</td>
         <td>Multi-modal</td>
-        <td>Cloze,Natural</td>
+        <td>Cloze</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
         <td><button onclick="window.open('https://arxiv.org/abs/1611.05118');">Paper Links</button></td>
     </tr>
+    <tr>
+        <td>2017</td>
+        <td>COMICS(Coherence)</td>
+        <td>Multi-modal</td>
+        <td>Natural</td>
+        <td>Free-Form</td>
+        <td>Multichoice</td>
+        <td><button onclick="window.open('https://arxiv.org/abs/1611.05118');">Paper Links</button></td>
+    </tr>	
     <tr>
         <td>2018</td>
         <td>QuAC</td>
@@ -301,7 +292,7 @@ permalink: /Tasks/
     </tr>
     <tr>
         <td>2018</td>
-        <td>HotpotQA(Distractor Setting）</td>
+        <td>HotpotQA(Distractor)</td>
         <td>Textual</td>
         <td>Natural</td>
         <td>Spans</td>
@@ -310,7 +301,7 @@ permalink: /Tasks/
     </tr>
     <tr>
         <td>2018</td>
-        <td>HotpotQA(Fullwiki Setting)</td>
+        <td>HotpotQA(Fullwiki)</td>
         <td>Textual</td>
         <td>Natural</td>
         <td>Spans</td>
@@ -367,7 +358,7 @@ permalink: /Tasks/
         <td>ReviewQA</td>
         <td>Textual</td>
         <td>Natural</td>
-        <td>Entity</td>
+        <td>Spans</td>
         <td>Multichoice</td>
         <td><button onclick="window.open('https://arxiv.org/pdf/1810.12196.pdf');">Paper Links</button></td>
     </tr>
@@ -418,16 +409,25 @@ permalink: /Tasks/
     </tr>
     <tr>
         <td>2018</td>
-        <td>RecipeQA</td>
+        <td>RecipeQA(Cloze)</td>
         <td>Multi-modal</td>
-        <td>Cloze,Natural</td>
+        <td>Cloze</td>
         <td>Free-Form</td>
         <td>Multichoice</td>
         <td><button onclick="window.open('https://arxiv.org/pdf/1809.00812.pdf');">Paper Links</button></td>
     </tr>
     <tr>
         <td>2018</td>
-        <td>PaperQA-Title(Park etc 2018)</td>
+        <td>RecipeQA(Coherence)</td>
+        <td>Multi-modal</td>
+        <td>Natural</td>
+        <td>Free-Form</td>
+        <td>Multichoice</td>
+        <td><button onclick="window.open('https://arxiv.org/pdf/1809.00812.pdf');">Paper Links</button></td>
+    </tr>
+	<tr>
+        <td>2018</td>
+        <td>PaperQA-T(Park etc 2018)</td>
         <td>Textual</td>
         <td>Cloze</td>
         <td>Free-Form</td>
@@ -436,7 +436,7 @@ permalink: /Tasks/
     </tr>
     <tr>
         <td>2018</td>
-        <td>PaperQA-Last Sentence(Park etc 2018)</td>
+        <td>PaperQA-L(Park etc 2018)</td>
         <td>Textual</td>
         <td>Cloze</td>
         <td>Free-Form</td>
@@ -445,7 +445,7 @@ permalink: /Tasks/
     </tr>
     <tr>
         <td>2018</td>
-        <td>PaperQA(Yining Hong etc 2018)</td>
+        <td>PaperQA(Hong etc 2018)</td>
         <td>Textual</td>
         <td>Natural</td>
         <td>Spans</td>
@@ -472,7 +472,7 @@ permalink: /Tasks/
     </tr>
     <tr>
         <td>2019</td>
-        <td>Natrual Question(Short answer)</td>
+        <td>Natrual Question(Short)</td>
         <td>Textual</td>
         <td>Natural</td>
         <td>Spans</td>
@@ -481,7 +481,7 @@ permalink: /Tasks/
     </tr>
     <tr>
         <td>2019</td>
-        <td>Natrual Question(Long answer)</td>
+        <td>Natrual Question(Long)</td>
         <td>Textual</td>
         <td>Natural</td>
         <td>Spans</td>
