@@ -1,32 +1,30 @@
 ---
 layout: page
 title: Metrics
-permalink: /Metrics/
+permalink: /metrics/
 ---
  
-
-
-<h1 class="page-title">{{ "Metrics, Leaderboards and Baseline" | escape }}</h1> 
+<h1 class="page-title">{{ "Metrics, Leaderboards and Baselines" | escape }}</h1> 
  <div class="section"   align="center" >
      <div class="row"  >
 	  <div class="col s12">
           <table align="center"  class="striped">
                <thead>
                   <tr bgcolor="#29b6f6">  
-                      <th><font color="white">Year</font></th>
-                      <th><font color="white">Datasets</font></th>
-                      <th><font color="white">Metric 1</font></th>
-                      <th><font color="white">Metric 2</font></th>
-                      <th><font color="white">Metric 3</font></th>
-                      <th><font color="white">Metric 4</font></th>
-                      <th><font color="white">Leaderboard</font></th>
-                      <th><font color="white">Baseline</font></th>
+                      <th width="6%"><font color="white">Year</font></th>
+                      <th width="12%"><font color="white">Datasets</font></th>
+                      <th width="12%"><font color="white">Metric 1</font></th>
+                      <th width="12%"><font color="white">Metric 2</font></th>
+                      <th width="12%"><font color="white">Metric 3</font></th>
+                      <th width="12%"><font color="white">Metric 4</font></th>
+                      <th width="12%"><font color="white">Leaderboard</font></th>
+                      <th width="12%"><font color="white">Baseline</font></th>
                   </tr>
                 </thead>
   <tbody>	
 	<tr>
         <td>2013</td>
-        <td>MCTest  mc500</td>
+        <td>MCTest</td>
         <td>Accuracy</td>
         <td>N/A</td>
         <td>N/A</td>
@@ -34,29 +32,9 @@ permalink: /Metrics/
         <td><button onclick="window.open('https://mattr1.github.io/mctest/results.html');">Leaderboard</button></td>
         <td><button onclick="window.open('https://mattr1.github.io/mctest/results.html');">Baseline</button></td>
     </tr>
-    <tr>
-        <td>2013</td>
-        <td>MCTest  mc160</td>
-        <td>Accuracy</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td><button onclick="window.open('https://mattr1.github.io/mctest/results.html');">Leaderboard</button></td>
-        <td><button onclick="window.open('https://mattr1.github.io/mctest/results.html');">Baseline</button></td>
-    </tr>
-    <tr>
+   <tr>
         <td>2015</td>
-        <td>Daily Mail</td>
-        <td>Accuracy</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td><button onclick="window.open('https://github.com/danqi/rc-cnn-dailymail');">Baseline</button></td>
-    </tr>
-    <tr>
-        <td>2015</td>
-        <td>CNN</td>
+        <td>CNN/Daily Mail</td>
         <td>Accuracy</td>
         <td>N/A</td>
         <td>N/A</td>
@@ -346,7 +324,7 @@ permalink: /Metrics/
     </tr>
     <tr>
         <td>2018</td>
-        <td>HotpotQA(Distractor Setting)</td>
+        <td>HotpotQA(Distractor)</td>
         <td>EM of Answer</td>
         <td>F1 of Answer</td>
         <td>EM of  Supportings</td>
@@ -356,7 +334,7 @@ permalink: /Metrics/
     </tr>
     <tr>
         <td>2018</td>
-        <td>HotpotQA(Fullwiki Setting)</td>
+        <td>HotpotQA(Fullwiki)</td>
         <td>EM of Answer</td>
         <td>F1 of Answer</td>
         <td>EM of  Supportings</td>
@@ -486,7 +464,7 @@ permalink: /Metrics/
     </tr>	
     <tr>
         <td>2018</td>
-        <td>PaperQA-Title(Park etc 2018)</td>
+        <td>PaperQA-T(Park etc 2018)</td>
         <td>Accuracy</td>
         <td>N/A</td>
         <td>N/A</td>
@@ -496,7 +474,7 @@ permalink: /Metrics/
     </tr>
     <tr>
         <td>2018</td>
-        <td>PaperQA-Last Sentence(Park etc 2018)</td>
+        <td>PaperQA-L(Park etc 2018)</td>
         <td>Accuracy</td>
         <td>N/A</td>
         <td>N/A</td>
@@ -506,7 +484,7 @@ permalink: /Metrics/
     </tr>
     <tr>
         <td>2018</td>
-        <td>PaperQA(Yining Hong etc 2018)</td>
+        <td>PaperQA(Hong etc 2018)</td>
         <td>F1</td>
         <td>N/A</td>
         <td>N/A</td>
@@ -536,7 +514,7 @@ permalink: /Metrics/
     </tr>
     <tr>
         <td>2019</td>
-        <td>Natrual Question(Short answer)</td>
+        <td>Natrual Question(Short)</td>
         <td>Precision</td>
         <td>Recall</td>
         <td>F1</td>
@@ -546,7 +524,7 @@ permalink: /Metrics/
     </tr>
    <tr>
         <td>2019</td>
-        <td>Natrual Question(Long answer)</td>
+        <td>Natrual Question(Long)</td>
         <td>Precision</td>
         <td>Recall</td>
         <td>N/A</td>
