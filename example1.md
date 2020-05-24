@@ -11,7 +11,7 @@ permalink: /tasks/
                <thead>
                <tr bgcolor="#29b6f6">  
                   <th width="10%"><font color="white">Year</font></th>
-                  <th width="15%"><font color="white">Datasets</font></th>
+                  <th width="15%"><font color="white">Tasks</font></th>
                   <th width="15%"><font color="white">Corpus Type</font></th>
                   <th width="15%"><font color="white">Question Type</font></th>
                   <th width="15%"><font color="white">Answer Source</font></th>
