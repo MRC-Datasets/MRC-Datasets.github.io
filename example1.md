@@ -40,6 +40,15 @@ permalink: /tasks/
     </tr>
     <tr>
         <td>2015</td>
+        <td>CuratedTREC</td>
+        <td>Textual</td>
+        <td>Natural</td>
+        <td>Free-Form</td>
+        <td>Natural</td>
+        <td><button onclick="window.open('http://pasky.or.cz/design/ailao/yodaqa/yodaqa-clef2015.pdf');">Paper Links</button></td>
+    </tr>
+     <tr>
+        <td>2015</td>
         <td>WikiQA </td>
         <td>Textual</td>
         <td>Natural</td>
