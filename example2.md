@@ -60,7 +60,7 @@ permalink: /metrics/
         <td>F1</td>
         <td>N/A</td>
         <td>N/A</td>
-        <td>N/A</td>
+        <td><button onclick="window.open('https://www.microsoft.com/en-us/research/search/?q=WikiQA');">Baseline</button></td>	
     </tr>
     <tr>
         <td>2016</td>
