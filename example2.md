@@ -12,7 +12,7 @@ permalink: /metrics/
                <thead>
                   <tr bgcolor="#29b6f6">  
                       <th width="6%"><font color="white">Year</font></th>
-                      <th width="12%"><font color="white">Datasets</font></th>
+                      <th width="12%"><font color="white">Tasks</font></th>
                       <th width="12%"><font color="white">Metric 1</font></th>
                       <th width="12%"><font color="white">Metric 2</font></th>
                       <th width="12%"><font color="white">Metric 3</font></th>
