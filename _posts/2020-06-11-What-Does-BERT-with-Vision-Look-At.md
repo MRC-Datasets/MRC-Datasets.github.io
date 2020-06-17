@@ -7,7 +7,7 @@ categories: misc
 Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh, and Kai-Wei Chang, in ACL (short), 2020.
 
 
-##### Abstract: (h5)
+##### Abstract: 
 
 
 
