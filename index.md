@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-How to cite:  Changchang Zeng, Shaobo Li, Qin Li, Jie Hu, Jianjun Hu, A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics, and Benchmark Datasets. arXiv preprint arXiv:2006.11880, 2020.<a target="_blank" class="orange-text text-lighten-4" href="https://arxiv.org/pdf/2006.11880v1.pdf"> [PDF]</a>
+Welcome to this website. You can click the menu bar at the top and the icon at the bottom to directly browse the information of the existing machine reading comprehension dataset, and directly access the machine reading comprehension dataset, papers, baseline items and browse the ranking list through hyperlinks.
